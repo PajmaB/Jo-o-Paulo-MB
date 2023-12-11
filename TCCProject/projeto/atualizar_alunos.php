@@ -71,10 +71,10 @@
             $ra = $_POST['ra'];
 
             // Conexão com o MongoDB
-            $conexao = new MongoDB\Driver\Manager("mongodb://localhost:27017");
+            $conexao = new MongoDB\Driver\Manager("mongodb+srv://tcc:tcc1popo@cluster0.gchakxj.mongodb.net/?retryWrites=true&w=majority");
 
             // Nome da coleção
-            $colecao = "TccDB.alunos"; // Substitua pelo nome da sua coleção
+            $colecao = "BaseDadosTCC.alunos"; // Substitua pelo nome da sua coleção
 
             // Filtro para encontrar o aluno pelo RA
             $filtro = ['RA' => $ra];
@@ -127,10 +127,10 @@
             $curso = $_POST['curso'];
 
             // Configurações de conexão com o MongoDB
-            $conexao = new MongoDB\Driver\Manager("mongodb://localhost:27017");
+            $conexao = new MongoDB\Driver\Manager("mongodb+srv://tcc:tcc1popo@cluster0.gchakxj.mongodb.net/?retryWrites=true&w=majority");
 
             // Nome da coleção
-            $colecao = "TccDB.alunos"; // Substitua pelo nome da sua coleção
+            $colecao = "BaseDadosTCC.alunos"; // Substitua pelo nome da sua coleção
 
             // Filtro para encontrar o aluno pelo RA
             $filtro = ['RA' => $ra];

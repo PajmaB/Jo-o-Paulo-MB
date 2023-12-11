@@ -6,9 +6,9 @@
     
     $filtro = ['RA' => $ra];
 
-    $conexao = new MongoDB\Driver\Manager("mongodb://localhost:27017");
+    $conexao = new MongoDB\Driver\Manager("mongodb+srv://tcc:tcc1popo@cluster0.gchakxj.mongodb.net/?retryWrites=true&w=majority");
         
-    $colecao = "TccDB.alunos";
+    $colecao = "BaseDadosTCC.alunos";
 
     $query = new MongoDB\Driver\Query($filtro);
 

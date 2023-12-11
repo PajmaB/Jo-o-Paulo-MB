@@ -4,7 +4,7 @@
 
     require 'vendor/autoload.php'; // include Composer's autoloader
 
-    $collection = (new MongoDB\Client)->TccDB->teste;
+    $collection = (new MongoDB\Client)->BaseDadosTCC->teste;
 
     $insertOneResult = $collection->insertOne(['nome_text' => 'marquinhos', 'RA' => 'RAdoMarquinhos25023', 'CPF' => 'cpfdomarquinhos', 'pontos' => 0, 'Curso' => 'CursoDeFoda']);
     

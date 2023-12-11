@@ -1,0 +1,17 @@
+{
+    "name": "adriana/tcc-project",
+    "description": "composer do tcc",
+    "type": "project",
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "ext-mongodb": "^1.13",
+        "mongodb/laravel-mongodb": "^3.9"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Joao Paulo Medeiros Benedicto"
+        }
+    ],
+    "minimum-stability": "stable"
+}

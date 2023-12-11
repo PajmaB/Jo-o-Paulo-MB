@@ -65,14 +65,14 @@
 
         <?php
         // Configurações de conexão com o MongoDB
-        $conexao = new MongoDB\Driver\Manager("mongodb://localhost:27017");
+        $conexao = new MongoDB\Driver\Manager("mongodb+srv://tcc:tcc1popo@cluster0.gchakxj.mongodb.net/?retryWrites=true&w=majority");
 
         if (isset($_POST['pesquisar'])) {
             // Verifique se o botão "Pesquisar" foi clicado
             $codigo = $_POST['codigo'];
 
             // Nome da coleção
-            $colecao = "TccDB.alunos"; 
+            $colecao = "BaseDadosTCC.alunos"; 
 
             // Filtro para pesquisar pelo código
             $filtro = ['RA' => $codigo];

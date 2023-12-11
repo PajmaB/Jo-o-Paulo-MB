@@ -3,8 +3,8 @@
 
     require 'vendor/autoload.php';
 
-    $uri = "mongodb://localhost:27017/";
-    $databaseName = "TccDB";
+    $uri = "mongodb+srv://tcc:tcc1popo@cluster0.gchakxj.mongodb.net/?retryWrites=true&w=majority";
+    $databaseName = "BaseDadosTCC";
 
     try {
         // Cria uma nova conexão
