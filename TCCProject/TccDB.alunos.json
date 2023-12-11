@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "651af659805543006f0cf116"
+  },
+  "nome": "Sean Moon da Silva",
+  "RA": "53543",
+  "CPF": "191.259.423-41",
+  "Pontos": "0",
+  "Curso": "Curso de genshin"
+},
+{
+  "_id": {
+    "$oid": "651af781805543006f0cf117"
+  },
+  "nome": "Eduardo Araújo",
+  "RA": "39504",
+  "CPF": "151.257.157-04",
+  "Pontos": "0",
+  "Curso": "Curso de Jogar lol bem",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1700663925/xutxf06oljgtlxhdhmtq.jpg"
+},
+{
+  "_id": {
+    "$oid": "651b2b5c805543006f0cf11f"
+  },
+  "nome": "Bruno Rodrigues de Oliveira Silva Sauro",
+  "RA": "25021",
+  "CPF": "999.999.999-99",
+  "Pontos": "51000",
+  "Curso": "Curso de como ser sigma e frio tarumnaumm"
+},
+{
+  "_id": {
+    "$oid": "651b5e0a805543006f0cf120"
+  },
+  "nome": "Pedro Ramos de Lima",
+  "RA": "10249",
+  "CPF": "294.341.342-52",
+  "Pontos": "500",
+  "Curso": "Desenvolvimento do Penis"
+},
+{
+  "_id": {
+    "$oid": "653e870067093f834a0e8b07"
+  },
+  "nome": "Carlos da silva",
+  "RA": "15243",
+  "CPF": "125.512.412-51",
+  "Pontos": "0",
+  "Curso": "DS",
+  "Imagem": ""
+},
+{
+  "_id": {
+    "$oid": "65490016a1519e9543022313"
+  },
+  "nome": "Teste",
+  "RA": "25952",
+  "CPF": "521.142.421-21",
+  "Pontos": 0,
+  "Curso": "Teste",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1699283011/hxdakrud6y2r2innsi1o.png"
+},
+{
+  "_id": {
+    "$oid": "654900d5a1519e9543022318"
+  },
+  "nome": "Teste25",
+  "RA": "55555",
+  "CPF": "012.345.678-90",
+  "Pontos": "1110",
+  "Curso": "teste2",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1699284683/hmw75umedlyiw7r8bzbg.jpg"
+},
+{
+  "_id": {
+    "$oid": "655e130cd06b30e1630757c7"
+  },
+  "nome": "Pedro Henrique Botelho",
+  "RA": "12354",
+  "CPF": "123.456.789-10",
+  "Pontos": 0,
+  "Curso": "Desenvolvimento de Sistemas",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1700664160/nmnxusf024df95es5hfu.png"
+},
+{
+  "_id": {
+    "$oid": "655e80c8a7853bb44b0053e3"
+  },
+  "nome": "Pedro Ramos de Lima",
+  "RA": "17287",
+  "CPF": "582.295.392-12",
+  "Pontos": 0,
+  "Curso": "Desenvolvimento de Sistemas",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1700692252/vhue4bubg4dk0gggzecc.jpg"
+},
+{
+  "_id": {
+    "$oid": "656022e426b43956e900d667"
+  },
+  "nome": "Felipe Santos Rosado",
+  "RA": "90904",
+  "CPF": "999.999.999-99",
+  "Pontos": 0,
+  "Curso": "Ser bem gay em deepwoken",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1700799283/rf9gyy5izz44l3n22q3y.webp"
+},
+{
+  "_id": {
+    "$oid": "656c9725506160d9c50a5953"
+  },
+  "nome": "teste",
+  "RA": "55555",
+  "CPF": "123.456.789-10",
+  "Pontos": 0,
+  "Curso": "Teste",
+  "Imagem": "http://res.cloudinary.com/bioclass/image/upload/v1701615394/ghqtmh4rgv83fftihtra.png"
+}]
